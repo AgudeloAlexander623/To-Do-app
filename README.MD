@@ -17,6 +17,7 @@ This is a To-Do list application built using HTML, CSS, and vanilla JavaScript. 
 - ✅ Eliminar tareas / Delete tasks  
 - ✅ Interfaz amigable y responsiva / Friendly and responsive UI  
 - ✅ Datos almacenados localmente (opcional) / Local data storage (optional)
+- ✅ Poner en modo oscuro/noche (opcional)
 
 ---
 
@@ -33,4 +34,4 @@ This is a To-Do list application built using HTML, CSS, and vanilla JavaScript. 
 1. Clona el repositorio / Clone the repository:
 
    ```bash
-   git clone https://github.com/tu-usuario/todo-app.git
+   git clone https://github.com/AgudeloAlexander623/todo-app.git
